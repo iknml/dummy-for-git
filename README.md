@@ -1,2 +1,2 @@
-# dummy-for-git
+# Data-Science-Gist
 setting up git
